@@ -1,0 +1,5 @@
+ask-sdk-core==1.19.0
+flask-ask-sdk==1.0.0
+Flask>=2.2,<4
+# OpenSSL 3 version detection fix from upstream.
+oscrypto @ git+https://github.com/wbond/oscrypto.git@d5f3437ed24257895ae1edd9e503cfb352e635a8

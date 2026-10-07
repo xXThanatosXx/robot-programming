@@ -1,0 +1,9 @@
+Robot Programming — adaptación a ROS 2 Jazzy.
+Basado en RoboticaIndustrial, rama Robot-Arm-Real-Robot:
+https://github.com/xXThanatosXx/RoboticaIndustrial
+Commit de referencia: b56023e15a0b34799ec461261acb91d5dafbb1bf.
+Los paquetes originales conservan sus autores y avisos.
+Cambios locales: migración Jazzy/Harmonic, hardware serie, servidor de tareas,
+mallas optimizadas y documentación reproducible.
+Licencia del repositorio elegida por su propietario: GPL-3.0 (LICENSE).
+Licencia de los paquetes originales conservada: Apache License 2.0 (LICENSE-APACHE-2.0).

@@ -1,0 +1,86 @@
+[
+  {
+    "mesh": "basement",
+    "kind": "visual",
+    "original_triangles": 20190,
+    "optimized_triangles": 12000
+  },
+  {
+    "mesh": "basement",
+    "kind": "collision",
+    "original_triangles": 20190,
+    "optimized_triangles": 8000
+  },
+  {
+    "mesh": "base_plate",
+    "kind": "visual",
+    "original_triangles": 54090,
+    "optimized_triangles": 12000
+  },
+  {
+    "mesh": "base_plate",
+    "kind": "collision",
+    "original_triangles": 54090,
+    "optimized_triangles": 16000
+  },
+  {
+    "mesh": "forward_drive_arm",
+    "kind": "visual",
+    "original_triangles": 42672,
+    "optimized_triangles": 12000
+  },
+  {
+    "mesh": "forward_drive_arm",
+    "kind": "collision",
+    "original_triangles": 42672,
+    "optimized_triangles": 16000
+  },
+  {
+    "mesh": "horizontal_arm",
+    "kind": "visual",
+    "original_triangles": 34824,
+    "optimized_triangles": 6000
+  },
+  {
+    "mesh": "horizontal_arm",
+    "kind": "collision",
+    "original_triangles": 34824,
+    "optimized_triangles": 4000
+  },
+  {
+    "mesh": "claw_support",
+    "kind": "visual",
+    "original_triangles": 11818,
+    "optimized_triangles": 6000
+  },
+  {
+    "mesh": "claw_support",
+    "kind": "collision",
+    "original_triangles": 11818,
+    "optimized_triangles": 4000
+  },
+  {
+    "mesh": "right_finger",
+    "kind": "visual",
+    "original_triangles": 1974,
+    "optimized_triangles": 1974
+  },
+  {
+    "mesh": "right_finger",
+    "kind": "collision",
+    "original_triangles": 1974,
+    "optimized_triangles": 1974
+  },
+  {
+    "mesh": "left_finger",
+    "kind": "visual",
+    "original_triangles": 1964,
+    "optimized_triangles": 1964
+  },
+  {
+    "mesh": "left_finger",
+    "kind": "collision",
+    "original_triangles": 1964,
+    "optimized_triangles": 1964
+  }
+]

@@ -1,0 +1,14 @@
+/build*/
+/install*/
+/log/
+/.venv*/
+/.vscode/
+/migration/src_before_full_migration/
+/migration/*logs/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+
+/migration/*.log
+/artifacts/
